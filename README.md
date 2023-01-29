@@ -4,6 +4,10 @@ Compiled PySide2 for Qt 5.12 on ARM system (exp. on Nvidia Jetson Nano). Tested 
 
 ## Installation
 
+First, you have to upgrade your Ubuntu to 20.04, see [UPGRADE_UBUNTU.md](UPGRADE_UBUNTU.md).
+
+After than, you can install PySide2 following the wiki: [INSTALL_PYSIDE2.md](INSTALL_PYSIDE2.md).
+
 To install PySide2 + shiboken2 execute the command:
 
     pip3 install *.whl
